@@ -7,7 +7,7 @@ public class Ex1{
 
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
-       // System.out.println(valores.length);
+      
     
         int[] valores = new int [6];
         System.out.println("Tamanho do vetor: "+valores.length);
