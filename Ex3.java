@@ -1,7 +1,6 @@
 /*3. Faça um programa que receba do usuário um vetor com 10 posições. Em seguida 
 deverá ser impresso o maior e o menor elemento do vetor.*/
 
-import java.util.Scanner;
 
 public class Ex3{
 
@@ -9,8 +8,6 @@ public class Ex3{
         int [] numeros = new int [10];
         int maior, menor;
 
-
-        //Scanner scanner = new Scaner(System.in);
 
         for(int i = 0; i < 10; i++){
 
